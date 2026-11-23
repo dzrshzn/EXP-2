@@ -79,34 +79,6 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 **Figure 3:** Virtual Lab simulation – load test
 
-## TABULATION
-
-### A. Open circuit test
-
-| S. No. | Field current If (A) | Generated EMF Eg (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-
-### B. Load test
-
-| S. No. | Load current IL (A) | Load voltage VL (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-
 ## FORMULA
 
 **Eg = VL + Ia Ra**, where **Ia = IL + If**
